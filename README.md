@@ -141,7 +141,7 @@ https://www.tinkercad.com/things/dYOQ8lY5PCG/editel?returnTo=%2Fdashboard&sharec
 
 # 🛠️ Physical Prototype
 
-![Real Prototype](docs/real_prototype.jpg)
+![Real Prototype](docs/real_prototype.jpeg)
 
 ---
 
