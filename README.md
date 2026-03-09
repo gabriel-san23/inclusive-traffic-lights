@@ -155,7 +155,8 @@ inclusive-traffic-light/
 │
 ├── docs/
 │   ├── tinkercad_circuit.png
-│   └── real_prototype.jpeg
+│   ├── real_prototype.jpeg
+│   └── electrical diagram.pdf
 │
 └── README.md
 └── LICENSE
